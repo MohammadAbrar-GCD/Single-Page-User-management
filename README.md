@@ -15,10 +15,6 @@
 - MySQL
 - Axios
 
-## Screenshots
-
-(insert screenshots)
-
 ## Installation
 
 ### Backend
